@@ -1,0 +1,15 @@
+Package: coc-nvim
+Version: 1.0-2
+Section: utils
+Priority: important
+Architecture: all
+Depends: neovim, nodejs, git
+Maintainer: Kevin Alexander Krefting <deine.email@beispiel.com>
+Description: Install the best IDE Experience in Linux. coc-nvim setup full in few Minutes
+Filename: dists/termux/extras/binary-all/coc-nvim.deb
+Size: 2228
+MD5Sum: d6ac07986d84b361d40e538ee6bef496
+SHA1: c8282ce6f9ceaceebb62237e00bea3652455b56a
+SHA256: a911cc5f57d1b5a93f3a21b5c2d5da95980c926d0726950709ea1a10e4d6a815
+SHA512: e8e8ee27b582889b2c4ce71b8f8a4df3bf7f4b4945faf5a2e178eb5dde145973cc1a18a1524773280b78c243e5bc0cb8dc4c626a7193a2b4cac743c0eb7f4237
+

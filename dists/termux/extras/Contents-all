@@ -1,0 +1,6 @@
+data/data/com.termux/files/home/.config/nvim/coc-settings.json                   coc-nvim
+data/data/com.termux/files/home/.config/nvim/init.vim                            coc-nvim
+data/data/com.termux/files/usr/bin/coc-nvim                                      coc-nvim
+data/data/com.termux/files/usr/var/coc-nvim/error.txt                            coc-nvim
+data/data/com.termux/files/usr/var/coc-nvim/help-edit.txt                        coc-nvim
+data/data/com.termux/files/usr/var/coc-nvim/help.txt                             coc-nvim
