@@ -4,3 +4,7 @@ data/data/com.termux/files/usr/bin/coc-nvim                                     
 data/data/com.termux/files/usr/var/coc-nvim/error.txt                            coc-nvim
 data/data/com.termux/files/usr/var/coc-nvim/help-edit.txt                        coc-nvim
 data/data/com.termux/files/usr/var/coc-nvim/help.txt                             coc-nvim
+data/data/com.termux/files/usr/etc/sudoers                                       termux-user
+data/data/com.termux/files/usr/sbin/adduser                                      termux-user
+data/data/com.termux/files/usr/sbin/su                                           termux-user
+data/data/com.termux/files/usr/sbin/sudo                                         termux-user
