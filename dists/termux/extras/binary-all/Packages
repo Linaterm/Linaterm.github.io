@@ -22,9 +22,9 @@ Depends: fakeroot, proot, proot-distro
 Maintainer: Kevin Alexander Krefting <kakrefting314@web.de>
 Description: Termux User Login and Sudo (For non root)
 Filename: dists/termux/extras/binary-all/termux-user.deb
-Size: 1528
-MD5Sum: d591572b93233aa6f7783ab3551f9be5
-SHA1: 6cdd55e0ee5704f9daa020839c3d3e488396ec91
-SHA256: 1d5232d063e6aceb2e092558d22847885971216d5254717022f134a4f9fa76ac
-SHA512: 0fadea168c65f14a5e07b21d15da5608015967f0580e9f5bc30da59711b4885298f23ce9359255ce0ef0281019bd1a2a2de9e3cbe4d000668d695bc99c3a6c4b
+Size: 1492
+MD5Sum: a7432a3704c48004c734198e2d0bc88c
+SHA1: 84f75644a5b84f3a475bee5d8f875acee835ff33
+SHA256: 83cc136f870da53ad3dd0a19f899ac57430926c9f7f9a91fa8d380c022a8342f
+SHA512: 9beaa474c7fdf0590a35ed2d15df7a0c2727ae034be3a14182ed193e68c3dc1a3266edf13293294265af8a54e4c1ee2a164097438c00dc0e5d442a3f92d78fa0
 
