@@ -13,3 +13,18 @@ SHA1: c8282ce6f9ceaceebb62237e00bea3652455b56a
 SHA256: a911cc5f57d1b5a93f3a21b5c2d5da95980c926d0726950709ea1a10e4d6a815
 SHA512: e8e8ee27b582889b2c4ce71b8f8a4df3bf7f4b4945faf5a2e178eb5dde145973cc1a18a1524773280b78c243e5bc0cb8dc4c626a7193a2b4cac743c0eb7f4237
 
+Package: pip4
+Version: 4.12.0
+Section: utils
+Architecture: all
+Priority: important
+Depends: python-pip
+Maintainer: Alexander Krefting <kakrefting314@gmail.com>
+Description: An pip/pipx tool in one tool
+Filename: dists/termux/extras/binary-all/pipx.deb
+Size: 1936
+MD5Sum: 5b68162c404487942ad22f4cf27849ce
+SHA1: bf5b65d3fb4e2ea024d13b77f4af0b442593cded
+SHA256: 7bf6bdc8d4884285c37f934e95e84e1c46710d36e8311f4f9e11d5e24af915d4
+SHA512: 55fd2eb3df4d888ba198feb4ed396603a9d24c92e3af696b1d9938ec9f408d5d1afdc4db38075f63e10a0c8246a21e6ecebc1814c85ca166d7d3f65e83be389b
+
