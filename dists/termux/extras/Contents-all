@@ -4,4 +4,3 @@ data/data/com.termux/files/usr/bin/coc-nvim                                     
 data/data/com.termux/files/usr/var/coc-nvim/error.txt                            coc-nvim
 data/data/com.termux/files/usr/var/coc-nvim/help-edit.txt                        coc-nvim
 data/data/com.termux/files/usr/var/coc-nvim/help.txt                             coc-nvim
-data/data/com.termux/files/usr/bin/pipr                                          pip4
