@@ -14,7 +14,7 @@ SHA256: a911cc5f57d1b5a93f3a21b5c2d5da95980c926d0726950709ea1a10e4d6a815
 SHA512: e8e8ee27b582889b2c4ce71b8f8a4df3bf7f4b4945faf5a2e178eb5dde145973cc1a18a1524773280b78c243e5bc0cb8dc4c626a7193a2b4cac743c0eb7f4237
 
 Package: termux-user
-Version: 1.2.1
+Version: 1.2.9
 Section: system
 Priority: important
 Architecture: all
@@ -22,9 +22,9 @@ Depends: fakeroot, proot, proot-distro
 Maintainer: Kevin Alexander Krefting <kakrefting314@web.de>
 Description: Termux User Login and Sudo (For non root)
 Filename: dists/termux/extras/binary-all/termux-user.deb
-Size: 1492
-MD5Sum: a7432a3704c48004c734198e2d0bc88c
-SHA1: 84f75644a5b84f3a475bee5d8f875acee835ff33
-SHA256: 83cc136f870da53ad3dd0a19f899ac57430926c9f7f9a91fa8d380c022a8342f
-SHA512: 9beaa474c7fdf0590a35ed2d15df7a0c2727ae034be3a14182ed193e68c3dc1a3266edf13293294265af8a54e4c1ee2a164097438c00dc0e5d442a3f92d78fa0
+Size: 1552
+MD5Sum: 5aec3be9c683665b538ed9a66c888849
+SHA1: b7ab9e15f2e8e680774cb11f4e09dd0efa5ca3a2
+SHA256: 7d2e7e3c461dee9ccfc072e36f9048e87aaca781d017419069d635d29c024126
+SHA512: 07bcc9d09e86a4b8a77ddeba86eeb0b4fb800322f9b751d8571d4a7ad561c0ffd3959df7dbaf4bb3f1a5ecb741bcf38fe9545add5bd476b57384d6d9bf5d9c56
 
